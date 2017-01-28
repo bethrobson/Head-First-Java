@@ -1,6 +1,6 @@
 package chap05;
 
-import helpers.GameHelper;
+import chap05.GameHelper;
 
 import java.util.Scanner;
 
