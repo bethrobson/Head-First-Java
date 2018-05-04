@@ -1,9 +1,5 @@
 package chap05;
 
-import helpers.GameHelper;
-
-import java.util.Scanner;
-
 public class Game {
     public static void main(String[] args)
     {

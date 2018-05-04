@@ -1,7 +1,8 @@
 package chap06;
-import helpers.GameHelper;
 
 import java.util.*;
+
+import chap05.GameHelper;
 
 public class DotComBust {
     private GameHelper helper = new GameHelper();
